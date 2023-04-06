@@ -1,0 +1,7 @@
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.exe.config
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.exe
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.pdb
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.csprojAssemblyReference.cache
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.exe
+C:\Users\TRUST\source\repos\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.pdb
